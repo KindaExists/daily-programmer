@@ -7,7 +7,14 @@ Source / Reddit Post - https://www.reddit.com/r/dailyprogrammer/comments/pih8x/e
 
 #! Assuming users input correct values 
 name = input('What is your name?: ')
-age = int(input('What is your age?: '))
+age = input('What is your age?: ')
 user = input('What is your username?: ')
 
-print(f'your name is {name}, you are {age} years old, and your username is {user}')
+# For Simple Solution
+# print(f'your name is {name}, you are {age} years old, and your username is {user}')
+
+# For Advanced Solution
+
+with open('1-easy/log.txt', 'a') as f:
+    f.write(f'{name}, {age}, {user}\n')
+    f.close()
