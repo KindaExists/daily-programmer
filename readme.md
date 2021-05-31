@@ -11,3 +11,8 @@ Challenges solved and extra comments:
 
 #1-hard : Easier and far less time consuming than the intermediate question.
         Could probably be really shortened, however the code works, so this should be fine for now.
+
+
+#2-easy : Not too difficult, as expected, nothing else needs to be said.
+
+(uncompleted/skipped) #2-intermediate
