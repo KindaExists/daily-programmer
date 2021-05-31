@@ -1,4 +1,10 @@
 
+"""
+[hard] challenge #1
+
+Source / Reddit Post - https://www.reddit.com/r/dailyprogrammer/comments/pii6j/difficult_challenge_1/
+"""
+
 def run():
     print("Think of a number from 1-100, but don't type it here.")
     print('Once you are done, press enter.')
