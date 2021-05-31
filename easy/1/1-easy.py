@@ -15,6 +15,6 @@ user = input('What is your username?: ')
 
 # For Advanced Solution
 
-with open('1-easy/log.txt', 'a') as f:
+with open('easy/1/log.txt', 'a') as f:
     f.write(f'{name}, {age}, {user}\n')
     f.close()

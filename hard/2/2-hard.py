@@ -24,7 +24,7 @@ def lap(start):
 def stop(start):
     final_t = round(sum((*laps, get_TS(time(), start))), 3)
     print(final_t)
-    with open('2-hard/log.txt', 'a') as f:
+    with open('hard/2/log.txt', 'a') as f:
         f.write(f'Time: {final_t} | Laps: {[lap for lap in laps]}\n')
         f.close()
 

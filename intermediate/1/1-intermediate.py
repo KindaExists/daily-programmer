@@ -19,7 +19,7 @@ def mainLoop():
         print('\n------------------------------\n')
 
         if  mode == '1':
-            with open('1-intermediate/event.json', 'r+') as fp:
+            with open('intermediate/1/event.json', 'r+') as fp:
                 temp = json.load(fp)
                 for k, v in enumerate(temp):
                     print(f"{k} | {v['name']} | {datetime.datetime(*v['date'], *v['time']).strftime('%c')}")
@@ -40,7 +40,7 @@ def mainLoop():
             event['date'] = date[::-1]
             event['time'] = time
 
-            with open('1-intermediate/event.json', 'r+') as fp:
+            with open('intermediate/1/event.json', 'r+') as fp:
                 temp = json.load(fp)
                 temp.append(event)
                 fp.seek(0)
@@ -50,7 +50,7 @@ def mainLoop():
             mode = ''
 
         elif mode == '3':
-            with open('1-intermediate/event.json', 'r+') as fp:
+            with open('intermediate/1/event.json', 'r+') as fp:
                 temp = json.load(fp)
                 for k, v in enumerate(temp):
                     print(f"> {k} | {v['name']} | {datetime.datetime(*v['date'], *v['time']).strftime('%c')}")
@@ -65,7 +65,7 @@ def mainLoop():
             mode = ''
 
         elif mode == '4':
-            with open('1-intermediate/event.json', 'r+') as fp:
+            with open('intermediate/1/event.json', 'r+') as fp:
                 temp = json.load(fp)
                 for k, v in enumerate(temp):
                     print(f"> {k} | {v['name']} | {datetime.datetime(*v['date'], *v['time']).strftime('%c')}")
