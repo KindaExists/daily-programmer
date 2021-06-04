@@ -1,0 +1,8 @@
+pans
+skate
+snap
+stake
+rake
+take
+kite
+leap
