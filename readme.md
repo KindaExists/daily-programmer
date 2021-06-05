@@ -12,3 +12,5 @@ Temporarily Skipped Questions - Reasons:
 #3 (intermediate) - Currently have too little knowledge about ciphers to really understand the goal of the activity, I plan to go back to this one in the futute.
 
 #4 (hard) - Skipped due to lack of time at the moment, will finish this as soon as possible.
+
+#5 (hard) - Skipped for similar reasons as #4 (hard).
