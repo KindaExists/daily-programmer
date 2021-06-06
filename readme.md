@@ -14,3 +14,7 @@ Temporarily Skipped Questions - Reasons:
 #4 (hard) - Skipped due to lack of time at the moment, will finish this as soon as possible.
 
 #5 (hard) - Skipped for similar reasons as #4 (hard).
+
+#6 (easy) - Skipped due to increadibly high difficulty to write (Possibly due to the language).
+
+#6 (intermediate) - Skipped due to vauge question writing (See Post/Edits).
