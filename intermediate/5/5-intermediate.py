@@ -1,7 +1,7 @@
 
 
 """
-[intermediate] challenge #4
+[intermediate] challenge #5
 
 Source / Reddit Post - https://www.reddit.com/r/dailyprogrammer/comments/pnhtj/2132012_challenge_5_intermediate/
 """
