@@ -20,3 +20,6 @@ Temporarily Skipped Questions - Reasons:
 #6 (intermediate) - Skipped due to vauge question writing (See Post/Edits).
 
 #6 (hard) - Skipped for similar reasons as #4 (hard).
+
+
+If some of the earlier challeges have not yet been done and are not on this list, it is likely they are still being done (technically, meaning they haven't been skipped yet) or they will be added to this list sometime later (Most likely in one go)
